@@ -1,2 +1,2 @@
 # harrypotter
-Harry Potter related projects
+hp.html is a Harry Potter fan project using parallax.
